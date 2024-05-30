@@ -1,8 +1,8 @@
 # Sistem Informasi Absensi Mahasiswa Fasilkom UNSRI
 
-<p align="center">
+
 ![Logo Universitas Sriwijaya](https://github.com/Fahmousss/absensi-mahasiswa/assets/111571341/1f55609a-f788-4b46-90a0-d3e775c0acdc)
-</p>
+
 
 
 This website is a project built to demonstrate the practical application of concepts learned in a databases course. It utilizes PHP Native for server-side scripting, MySQL for data storage and management, and Bootstrap 5 for a modern and responsive user interface.
