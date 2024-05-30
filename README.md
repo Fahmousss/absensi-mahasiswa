@@ -1,6 +1,6 @@
 # Sistem Informasi Absensi Mahasiswa Fasilkom UNSRI
 
-<img src=[https://github.com/Fahmousss/absensi-mahasiswa/assets/111571341/5d0b0c9f-c313-4afb-90bf-06b1a8ceacc6] />
+<img alt='logo' src=[https://github.com/Fahmousss/absensi-mahasiswa/assets/111571341/5d0b0c9f-c313-4afb-90bf-06b1a8ceacc6] />
 ![image]()
 
 
