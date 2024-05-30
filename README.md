@@ -36,10 +36,10 @@ Clone the project
 ```
 
 Configure Database
-- Create database named **absensi**
-- Import the ***absensi.sql*** file to **absensi** database. you can use PHPMyAdmin or use MySQL CLI Command on your directory project
+- Create database named **sistem_absensi**
+- Import the ***sistem_absensi.sql*** file to **sistem_absensi** database. you can use PHPMyAdmin or use MySQL CLI Command on your directory project
 ```bash
-  mysql -u your_username -p your_pass absensi < absensi.sql
+  mysql -u your_username -p your_pass sistem_absensi < sistem_absensi.sql
 ```
 ## Running the website
 Point your web browser to the location (http://localhost/absensi-mahasiswa).
